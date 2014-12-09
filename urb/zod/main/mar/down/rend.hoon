@@ -200,7 +200,7 @@
     ^-  manx
     ?@  -.b
       ?-  -.b
-        %$     =.(p.b (trip (crip p.b)) :/(p.b))          ::  XX  valid tapes
+        %$     :/(p.b)
         %line  ;br;
         %code  ;code:"{p.b}"
         %htmt  !!  ::p.b              ::  handled earlier ::  XX  do type stuff

@@ -785,6 +785,8 @@
           ?=(%$ -.i.t.c)
       ==
     $(c t.c(p.i (weld p.i.c p.i.t.c)))
+  =.  i.c  
+    ?.(?=(%$ -.i.c) i.c [%$ (trip (crip p.i.c))])       ::  XX  valid tapes
   :_  $(c t.c)
   ?@  -.i.c  i.c
   =*  d  q.i.c
