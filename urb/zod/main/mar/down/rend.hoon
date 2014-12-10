@@ -148,8 +148,8 @@
       (lose "unclosed {<u.had>}")
     =>  [ele=i.lim .(lim t.lim)]
     ?.  ?=(%htmt -.ele)
-::       ?:  &(?=(%$ -.ele) ?=([[%$ *] *] lim))
-::         apex(p.i.lim (weld p.ele p.i.lim))
+      ?:  &(?=(%$ -.ele) ?=([[%$ *] *] lim))
+        apex(p.i.lim (weld p.ele p.i.lim))
       (push (reso ele) ~)
     =+  tex=(trip p.ele)
     =^  emo  lim  (chomp tex empt:poxa)
